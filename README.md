@@ -3,7 +3,7 @@
 * **Tags:** images, featured image, edit, post, admin, shortcode, shortcodes
 * **Requires at least:** 2.9
 * **Tested up to:** 6.3.2
-* **Stable tag:** 1.3.0
+* **Stable tag:** 1.4.0
 
 Adds a shortcode to insert the post's featured image into the post's content.
 
